@@ -1,4 +1,4 @@
-# EV Sales India - Exploratory Data Analysis (2014–2024)
+# EV Sales India - Exploratory Data Analysis (2014 - 2024)
 
 **Tech stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook
 
